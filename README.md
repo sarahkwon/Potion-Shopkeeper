@@ -1,6 +1,6 @@
 # Potion Shopkeeper
 
-A 3d business simulation RPG made in Unity C#
+A 3D business simulation RPG made in Unity C#
 
 ![Capture](https://user-images.githubusercontent.com/55962587/222748046-2138e33a-fb13-4c1e-af7e-7d138abf97bb.PNG)
 
