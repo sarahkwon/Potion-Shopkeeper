@@ -1,7 +1,5 @@
 # Potion Shopkeeper
 
-A 3D business simulation RPG made in Unity C#
-
 ![Capture](https://user-images.githubusercontent.com/55962587/222748046-2138e33a-fb13-4c1e-af7e-7d138abf97bb.PNG)
 
 <a href="https://en.wikipedia.org/wiki/List_of_video_game_genres"><img src="https://img.shields.io/badge/Genre-Business%20Simulation,%20RPG-blue?color=66a103&style=for-the-badge" style="max-height: 300px;"></a>
