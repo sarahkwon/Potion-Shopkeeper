@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05d100a64c7131c458fc48be2c616901, type: 3}
+  m_Name: Heart of the Wild
+  m_EditorClassIdentifier: 
+  itemName: Heart of the Wild
+  description: An extremely rare flower only said to bloom once every millennium.
+  icon: {fileID: 21300000, guid: b191bfdbcc2026f4f80da5d7c7db53d5, type: 3}
+  ingredientType: 0
+  price: 75000

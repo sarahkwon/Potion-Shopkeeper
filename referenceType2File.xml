@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>19698694651c43f49aac9cfc6159959a</guid>
+    <fileName>Assets/Plugins/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2022-12-13T19:37:42-08:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetCollector</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e790a544dd138664e80b6478c68e6707</guid>
+    <fileName>Assets/Plugins/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-13T19:37:42-08:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b1490013daeafa74f8cd4c28076678d1</guid>
+    <fileName>Assets/Plugins/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-13T19:37:42-08:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ClassReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>51a06bd6b028d564994339f69d68f318</guid>
+    <fileName>Assets/Plugins/Editor/CollectionData.cs</fileName>
+    <timeStamp>2022-12-13T19:37:42-08:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.CollectionData</string>
+      <string>UnitySweeper.TypeDate</string>
+      <string>UnitySweeper.IReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>91263bc1d08d9b8468729afd42655d97</guid>
+    <fileName>Assets/Plugins/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2022-12-13T19:37:42-08:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bfa20847f43d5de49920ecbf62689b82</guid>
+    <fileName>Assets/Plugins/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-13T19:37:42-08:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8a662687dbc7d094490929927f183c7d</guid>
+    <fileName>Assets/CashRegister.cs</fileName>
+    <timeStamp>2022-11-21T19:53:36.9099556-08:00</timeStamp>
+    <typeFullName>
+      <string>CashRegister</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5160058a176c6e04f87569a0362c3969</guid>
+    <fileName>Assets/ClickIcon.cs</fileName>
+    <timeStamp>2022-12-01T04:00:39.6747156-08:00</timeStamp>
+    <typeFullName>
+      <string>ClickIcon</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>782b1170b7f08974fa241f0b295e7f7a</guid>
+    <fileName>Assets/Customer.cs</fileName>
+    <timeStamp>2022-11-28T21:52:49.1888879-08:00</timeStamp>
+    <typeFullName>
+      <string>Customer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b2a0b287b74e96f4c9062a8f8cfd6386</guid>
+    <fileName>Assets/CustomerAnimator.cs</fileName>
+    <timeStamp>2022-11-28T04:34:51.8988743-08:00</timeStamp>
+    <typeFullName>
+      <string>CustomerAnimator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c71ec0d250411ec43a514521e062ba1b</guid>
+    <fileName>Assets/DragDropIngredientItem.cs</fileName>
+    <timeStamp>2022-11-29T05:45:59.4804142-08:00</timeStamp>
+    <typeFullName>
+      <string>DragDropIngredientItem</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ce0869d93881455419e984e67b9152d8</guid>
+    <fileName>Assets/Fred.cs</fileName>
+    <timeStamp>2022-12-10T07:56:14.8140913-08:00</timeStamp>
+    <typeFullName>
+      <string>Fred</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7aaa9c814083b8147987c8fe82362f02</guid>
+    <fileName>Assets/GameController.cs</fileName>
+    <timeStamp>2022-12-10T07:48:14.3454827-08:00</timeStamp>
+    <typeFullName>
+      <string>GameController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a3ba2f9f5b6db2f4290fb20bacf6a804</guid>
+    <fileName>Assets/HeartButton.cs</fileName>
+    <timeStamp>2022-11-28T20:41:55.340057-08:00</timeStamp>
+    <typeFullName>
+      <string>HeartButton</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2782cca57b4ebc049ac4ccc96fef8ac4</guid>
+    <fileName>Assets/IngredientCraftSlot.cs</fileName>
+    <timeStamp>2022-12-09T04:03:11.4571948-08:00</timeStamp>
+    <typeFullName>
+      <string>IngredientCraftSlot</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b75f062826c366a4695a45fb032a5d2d</guid>
+    <fileName>Assets/IngredientSlot.cs</fileName>
+    <timeStamp>2022-11-07T21:21:29.4871382-08:00</timeStamp>
+    <typeFullName>
+      <string>IngredientSlot</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>af2f3cb9b63480241810dc88cf4f1a7d</guid>
+    <fileName>Assets/MenuFunctions.cs</fileName>
+    <timeStamp>2022-12-09T22:01:05.8917701-08:00</timeStamp>
+    <typeFullName>
+      <string>MenuFunctions</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>53a2c85515cb7a24c8b3f635ed9de249</guid>
+    <fileName>Assets/PauseMenuFunctions.cs</fileName>
+    <timeStamp>2022-12-09T22:00:50.8090585-08:00</timeStamp>
+    <typeFullName>
+      <string>PauseMenuFunctions</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8c1cb3800ff07b9489afe200bd969d05</guid>
+    <fileName>Assets/PlayerBank.cs</fileName>
+    <timeStamp>2022-12-10T07:58:42.1276476-08:00</timeStamp>
+    <typeFullName>
+      <string>PlayerBank</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>21d5f7ffe9a749b4698025ed2d8936a8</guid>
+    <fileName>Assets/PotionCraftingUI.cs</fileName>
+    <timeStamp>2022-12-10T04:02:04.1028507-08:00</timeStamp>
+    <typeFullName>
+      <string>PotionCraftingUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>21447850c20bd11438a2c809cddee11c</guid>
+    <fileName>Assets/PotionItemDataHolder.cs</fileName>
+    <timeStamp>2022-12-01T05:32:08.8968135-08:00</timeStamp>
+    <typeFullName>
+      <string>PotionItemDataHolder</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>50e8cfd6c261f0b4e9d912fb2a78d135</guid>
+    <fileName>Assets/ReputationSystem.cs</fileName>
+    <timeStamp>2022-12-09T01:31:54.9847433-08:00</timeStamp>
+    <typeFullName>
+      <string>ReputationSystem</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fdfce7a8b9d5f004d9b318cb38f62d9e</guid>
+    <fileName>Assets/SpawnPoint.cs</fileName>
+    <timeStamp>2022-12-09T21:36:50.1158822-08:00</timeStamp>
+    <typeFullName>
+      <string>SpawnPoint</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f96dbe9df2855174dbd44e32e8cc5cd9</guid>
+    <fileName>Assets/TransactionManager.cs</fileName>
+    <timeStamp>2022-11-28T22:35:18.3513493-08:00</timeStamp>
+    <typeFullName>
+      <string>TransactionManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8c440ec844720e24794d0432621965f8</guid>
+    <fileName>Assets/Scripts/Cauldron.cs</fileName>
+    <timeStamp>2022-11-28T23:02:23.7734156-08:00</timeStamp>
+    <typeFullName>
+      <string>Cauldron</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a48381f874a42a14d9212d1246c4c39e</guid>
+    <fileName>Assets/Scripts/CustomerMovement.cs</fileName>
+    <timeStamp>2022-12-09T01:42:36.2694885-08:00</timeStamp>
+    <typeFullName>
+      <string>CustomerMovement</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4821bf83187fad04798ac87c981f2668</guid>
+    <fileName>Assets/Scripts/DisplayTable.cs</fileName>
+    <timeStamp>2022-11-28T18:53:42.2154626-08:00</timeStamp>
+    <typeFullName>
+      <string>DisplayTable</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d96ae1ab13e0e364a8119c75fcd8b147</guid>
+    <fileName>Assets/Scripts/DragDropSaleItem.cs</fileName>
+    <timeStamp>2022-12-09T21:27:18.7154819-08:00</timeStamp>
+    <typeFullName>
+      <string>DragDropSaleItem</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d8db5955367ad6e47813124fd7fd69cb</guid>
+    <fileName>Assets/Scripts/IInteractable.cs</fileName>
+    <timeStamp>2022-11-14T03:00:34.231071-08:00</timeStamp>
+    <typeFullName>
+      <string>IInteractable</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1a908696daa4d1b4ca3b9d3d4bdfab11</guid>
+    <fileName>Assets/Scripts/Interactor.cs</fileName>
+    <timeStamp>2022-12-10T04:50:47.0569953-08:00</timeStamp>
+    <typeFullName>
+      <string>Interactor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>65170289699a0d24181eab34fa777378</guid>
+    <fileName>Assets/Scripts/ItemDisplaySystem.cs</fileName>
+    <timeStamp>2022-11-04T22:22:54.3014556-07:00</timeStamp>
+    <typeFullName>
+      <string>ItemDisplaySystem</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>df8bafa06575ed149b58bef51ae9ccbf</guid>
+    <fileName>Assets/Scripts/ItemSaleUI.cs</fileName>
+    <timeStamp>2022-12-09T22:59:09.2109421-08:00</timeStamp>
+    <typeFullName>
+      <string>ItemSaleUI</string>
+      <string>PotionSaleData</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>db9670915cbcb804395c0732af650049</guid>
+    <fileName>Assets/Scripts/PlayerAnimator.cs</fileName>
+    <timeStamp>2022-11-22T05:17:17.3208771-08:00</timeStamp>
+    <typeFullName>
+      <string>PlayerAnimator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>43a979815a20b4b45b406d5f90cb2d2e</guid>
+    <fileName>Assets/Scripts/PotionSaleSlot.cs</fileName>
+    <timeStamp>2022-12-09T21:28:53.3556593-08:00</timeStamp>
+    <typeFullName>
+      <string>PotionSaleSlot</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a513db0149505844e8067105b56ec92a</guid>
+    <fileName>Assets/Scripts/ReactionUI.cs</fileName>
+    <timeStamp>2022-11-28T22:18:16.4171828-08:00</timeStamp>
+    <typeFullName>
+      <string>ReactionUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ee07a1c83a9695140937a46acadc6d61</guid>
+    <fileName>Assets/Scripts/TooltipItem.cs</fileName>
+    <timeStamp>2022-12-01T00:19:57.7990761-08:00</timeStamp>
+    <typeFullName>
+      <string>TooltipItem</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>97ac2abb9cd13724687890792d94968a</guid>
+    <fileName>Assets/Scripts/UIController.cs</fileName>
+    <timeStamp>2022-12-10T07:56:01.2978157-08:00</timeStamp>
+    <typeFullName>
+      <string>UIController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dfa2f44f40c0fb041b3e56951b5c02e3</guid>
+    <fileName>Assets/SplashScreenAndCredits/imageLoader.cs</fileName>
+    <timeStamp>2022-03-27T12:52:56-07:00</timeStamp>
+    <typeFullName>
+      <string>imageLoader</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5fea29bb7c508c244a1f805a5fd3fc4d</guid>
+    <fileName>Assets/QuickOutline/Scripts/Outline.cs</fileName>
+    <timeStamp>2022-03-07T04:32:12-08:00</timeStamp>
+    <typeFullName>
+      <string>Outline</string>
+      <string>Outline+Mode</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f0d6e1f6428a4a947897c93a05c84755</guid>
+    <fileName>Assets/Scripts/Inventory/DragDropItem.cs</fileName>
+    <timeStamp>2022-12-10T04:01:34.501035-08:00</timeStamp>
+    <typeFullName>
+      <string>DragDropItem</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>44cb9757f2e38ba4da4c6b9fc6c0765d</guid>
+    <fileName>Assets/Scripts/Inventory/InventorySlot.cs</fileName>
+    <timeStamp>2022-11-07T22:07:12.7875943-08:00</timeStamp>
+    <typeFullName>
+      <string>InventorySlot</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3d830a1d5017d0d489c8c43c42d1be6d</guid>
+    <fileName>Assets/Scripts/Inventory/InventoryUI.cs</fileName>
+    <timeStamp>2022-12-10T01:41:41.31776-08:00</timeStamp>
+    <typeFullName>
+      <string>InventoryUI</string>
+      <string>InventoryUI+InventoryType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e414b50f15690234283ff03a6aef67e0</guid>
+    <fileName>Assets/Scripts/Inventory/ItemUI.cs</fileName>
+    <timeStamp>2022-12-09T21:23:39.4298-08:00</timeStamp>
+    <typeFullName>
+      <string>ItemUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dee508de28d71054783b8a5d1bf2f741</guid>
+    <fileName>Assets/Scripts/Inventory/PlayerInventory.cs</fileName>
+    <timeStamp>2022-12-10T05:02:43.9159101-08:00</timeStamp>
+    <typeFullName>
+      <string>PlayerInventory</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ea6fbba7025e3ee4cb136ab742734113</guid>
+    <fileName>Assets/Scripts/Player/CharacterMovement.cs</fileName>
+    <timeStamp>2022-11-28T23:22:23.742677-08:00</timeStamp>
+    <typeFullName>
+      <string>CharacterMovement</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bf55aa2c0d7914b348b9d193f622141c</guid>
+    <fileName>Assets/Imported/GUI PRO Kit - Fantasy RPG/Scripts/PanelControlFantasyRPG.cs</fileName>
+    <timeStamp>2021-11-28T23:10:11-08:00</timeStamp>
+    <typeFullName>
+      <string>LayerLab.FantasyRPG.PanelControlFantasyRPG</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9a00128818eda43dfaa959b83527b255</guid>
+    <fileName>Assets/Imported/GUI PRO Kit - Fantasy RPG/Scripts/PanelFantasyRPG.cs</fileName>
+    <timeStamp>2021-11-28T23:08:45-08:00</timeStamp>
+    <typeFullName>
+      <string>LayerLab.FantasyRPG.PanelFantasyRPG</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>37a57c779fb956442a04425ef3be98a0</guid>
+    <fileName>Assets/Scripts/Inventory/ScriptableObjects/DisplayTableInfo.cs</fileName>
+    <timeStamp>2022-11-05T23:11:32.6239962-07:00</timeStamp>
+    <typeFullName>
+      <string>DisplayTableInfo</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>05d100a64c7131c458fc48be2c616901</guid>
+    <fileName>Assets/Scripts/Inventory/ScriptableObjects/IngredientItem.cs</fileName>
+    <timeStamp>2022-12-10T01:41:26.2874899-08:00</timeStamp>
+    <typeFullName>
+      <string>IngredientType</string>
+      <string>IngredientItem</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e14c9a7e088a3644b91e866b72354cdb</guid>
+    <fileName>Assets/Scripts/Inventory/ScriptableObjects/InventoryObject.cs</fileName>
+    <timeStamp>2022-12-01T05:56:47.6511953-08:00</timeStamp>
+    <typeFullName>
+      <string>InventoryObject</string>
+      <string>InventoryItem</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>da0169cc93417bc4e8fb366ff505da20</guid>
+    <fileName>Assets/Scripts/Inventory/ScriptableObjects/Item.cs</fileName>
+    <timeStamp>2022-11-04T03:04:00.1074874-07:00</timeStamp>
+    <typeFullName>
+      <string>Item</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f65981ca5b5cd1f498d2f531103b2dc8</guid>
+    <fileName>Assets/Scripts/Inventory/ScriptableObjects/PotionItem.cs</fileName>
+    <timeStamp>2022-11-07T17:49:42.7808847-08:00</timeStamp>
+    <typeFullName>
+      <string>PotionItem</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f970ea55f9f84bf79b05dab180b8c125</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark01.cs</fileName>
+    <timeStamp>2018-03-28T13:02:22-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.Benchmark01</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8ef7be1c625941f7ba8ed7cc71718c0d</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark01_UGUI.cs</fileName>
+    <timeStamp>2018-03-28T13:02:22-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.Benchmark01_UGUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e8538afcddc14efbb5d9e94b7ae50197</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark02.cs</fileName>
+    <timeStamp>2021-02-15T21:53:46-08:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.Benchmark02</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a73109742c8d47ac822895a473300c29</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark03.cs</fileName>
+    <timeStamp>2021-02-15T21:53:21-08:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.Benchmark03</string>
+      <string>TMPro.Examples.Benchmark03+BenchmarkType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dc20866c0d5e413ab7559440e15333ae</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark04.cs</fileName>
+    <timeStamp>2017-02-24T16:26:54-08:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.Benchmark04</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2d687537154440a3913a9a3c7977978c</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/CameraController.cs</fileName>
+    <timeStamp>2019-04-13T01:56:27-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.CameraController</string>
+      <string>TMPro.Examples.CameraController+CameraModes</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>53d91f98a2664f5cb9af11de72ac54ec</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ChatController.cs</fileName>
+    <timeStamp>2021-02-15T21:55:06-08:00</timeStamp>
+    <typeFullName>
+      <string>ChatController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ac1eb05af6d391b4eb0f4c070a99f1d0</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/DropdownSample.cs</fileName>
+    <timeStamp>2019-04-24T13:55:43-07:00</timeStamp>
+    <typeFullName>
+      <string>DropdownSample</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a4b6f99e8bc54541bbd149b014ff441c</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/EnvMapAnimator.cs</fileName>
+    <timeStamp>2017-05-16T16:13:54-07:00</timeStamp>
+    <typeFullName>
+      <string>EnvMapAnimator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4f19c7f94c794c5097d8bd11e39c750d</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ObjectSpin.cs</fileName>
+    <timeStamp>2017-02-24T16:27:45-08:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.ObjectSpin</string>
+      <string>TMPro.Examples.ObjectSpin+MotionType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2787a46a4dc848c1b4b7b9307b614bfd</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ShaderPropAnimator.cs</fileName>
+    <timeStamp>2017-02-24T16:27:55-08:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.ShaderPropAnimator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9eff140b25d64601aabc6ba32245d099</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/SimpleScript.cs</fileName>
+    <timeStamp>2021-02-15T21:55:19-08:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.SimpleScript</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d412675cfb3441efa3bf8dcd9b7624dc</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/SkewTextExample.cs</fileName>
+    <timeStamp>2017-02-24T16:28:15-08:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.SkewTextExample</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e32c266ee6204b21a427753cb0694c81</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TeleType.cs</fileName>
+    <timeStamp>2017-02-24T16:28:31-08:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TeleType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>43bcd35a1c0c40ccb6d472893fe2093f</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextConsoleSimulator.cs</fileName>
+    <timeStamp>2017-11-28T16:21:11-08:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TextConsoleSimulator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a4d4c76e63944cba8c7d00f56334b98c</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextMeshProFloatingText.cs</fileName>
+    <timeStamp>2021-02-15T21:55:47-08:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TextMeshProFloatingText</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>76c11bbcfddf44e0ba17d6c2751c8d84</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextMeshSpawner.cs</fileName>
+    <timeStamp>2017-02-24T16:29:06-08:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TextMeshSpawner</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c3c1afeda5e545e0b19add5373896d2e</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMPro_InstructionOverlay.cs</fileName>
+    <timeStamp>2018-03-28T13:02:22-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMPro_InstructionOverlay</string>
+      <string>TMPro.Examples.TMPro_InstructionOverlay+FpsCounterAnchorPositions</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1a7eb92a01ed499a987bde9def05fbce</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_DigitValidator.cs</fileName>
+    <timeStamp>2019-12-17T12:34:36-08:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.TMP_DigitValidator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6f2c5b59b6874405865e2616e4ec276a</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_ExampleScript_01.cs</fileName>
+    <timeStamp>2017-02-24T16:29:26-08:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_ExampleScript_01</string>
+      <string>TMPro.Examples.TMP_ExampleScript_01+objectType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>686ec78b56aa445795335fbadafcfaa4</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_FrameRateCounter.cs</fileName>
+    <timeStamp>2019-12-12T16:19:56-08:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_FrameRateCounter</string>
+      <string>TMPro.Examples.TMP_FrameRateCounter+FpsCounterAnchorPositions</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>83680ab1a69f4102ac67d1459fe76e1f</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_PhoneNumberValidator.cs</fileName>
+    <timeStamp>2017-12-15T16:28:47-08:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.TMP_PhoneNumberValidator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d736ce056cf444ca96e424f4d9c42b76</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextEventCheck.cs</fileName>
+    <timeStamp>2020-01-22T16:29:10-08:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_TextEventCheck</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1312ae25639a4bae8e25ae223209cc50</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextEventHandler.cs</fileName>
+    <timeStamp>2021-02-15T21:56:03-08:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.TMP_TextEventHandler</string>
+      <string>TMPro.TMP_TextEventHandler+CharacterSelectionEvent</string>
+      <string>TMPro.TMP_TextEventHandler+SpriteSelectionEvent</string>
+      <string>TMPro.TMP_TextEventHandler+WordSelectionEvent</string>
+      <string>TMPro.TMP_TextEventHandler+LineSelectionEvent</string>
+      <string>TMPro.TMP_TextEventHandler+LinkSelectionEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>21256c5b62f346f18640dad779911e20</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextInfoDebugTool.cs</fileName>
+    <timeStamp>2021-02-15T21:56:17-08:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_TextInfoDebugTool</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>103e0a6a1d404693b9fb1a5173e0e979</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextSelector_A.cs</fileName>
+    <timeStamp>2019-04-16T15:34:52-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_TextSelector_A</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a05dcd8be7ec4ccbb35c26219884aa37</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextSelector_B.cs</fileName>
+    <timeStamp>2020-01-22T16:18:39-08:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_TextSelector_B</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>24b0dc2d1d494adbbec1f4db26b4cf83</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_UiFrameRateCounter.cs</fileName>
+    <timeStamp>2019-01-30T00:14:01-08:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_UiFrameRateCounter</string>
+      <string>TMPro.Examples.TMP_UiFrameRateCounter+FpsCounterAnchorPositions</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>91b8ba3d52e041fab2d0e0f169855539</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexColorCycler.cs</fileName>
+    <timeStamp>2018-10-02T14:59:00-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.VertexColorCycler</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2ed57967c52645d390a89dcf8f61ba73</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexJitter.cs</fileName>
+    <timeStamp>2019-12-06T12:21:53-08:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.VertexJitter</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f7cfa58e417a46ea8889989684c2522e</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexShakeA.cs</fileName>
+    <timeStamp>2017-02-24T16:30:58-08:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.VertexShakeA</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e4e0d9ccee5f4950be8979268c9014e0</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexShakeB.cs</fileName>
+    <timeStamp>2017-02-24T16:31:07-08:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.VertexShakeB</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>52ec835d14bd486f900952b77698b7eb</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexZoom.cs</fileName>
+    <timeStamp>2017-02-24T16:31:15-08:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.VertexZoom</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>790744c462254b7ba8038e6ed28b3db2</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/WarpTextExample.cs</fileName>
+    <timeStamp>2017-02-24T16:31:24-08:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.WarpTextExample</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ea6c26686c050414eb1d71a523983e91</guid>
+    <fileName>Assets/Imported/GUI PRO Kit - Fantasy RPG/Extensions/UIParticle/UIParticleSystem.cs</fileName>
+    <timeStamp>2021-11-28T23:11:58-08:00</timeStamp>
+    <typeFullName>
+      <string>UnityEngine.UI.Extensions.FantasyRPG.UIParticleSystem</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+</ArrayOfTypeDate>

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f65981ca5b5cd1f498d2f531103b2dc8, type: 3}
+  m_Name: Flame Potion
+  m_EditorClassIdentifier: 
+  itemName: Flame Potion
+  description: A splash potion that will conjure up flames
+  icon: {fileID: 21300000, guid: 29ab37a06e320ca469c1fddb23a5ea54, type: 3}
+  prefab: {fileID: 8434432780171953157, guid: 56a9c4e7ac332dc4f904982f2f9da955, type: 3}
+  cheapPriceMax: 175
+  standardPriceMax: 300
+  expensivePriceMax: 350
+  recipe: 00000000010000000100000004000000

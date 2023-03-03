@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f65981ca5b5cd1f498d2f531103b2dc8, type: 3}
+  m_Name: Mana Potion III
+  m_EditorClassIdentifier: 
+  itemName: Mana Potion III
+  description: Drinking this will restore a great deal of mana
+  icon: {fileID: 21300000, guid: e79fe7acb75302942b5e491533eabe0d, type: 3}
+  prefab: {fileID: 8434432780171953157, guid: 54389c02eb0e1ef4fa7642f7c56b3e4d, type: 3}
+  cheapPriceMax: 100
+  standardPriceMax: 150
+  expensivePriceMax: 200
+  recipe: 00000000040000000400000004000000

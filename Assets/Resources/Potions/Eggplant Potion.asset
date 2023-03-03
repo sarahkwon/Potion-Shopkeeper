@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f65981ca5b5cd1f498d2f531103b2dc8, type: 3}
+  m_Name: Eggplant Potion
+  m_EditorClassIdentifier: 
+  itemName: Eggplant Potion
+  description: Tastes like an eggplant
+  icon: {fileID: 21300000, guid: c796d4eed6fb57f48a007c22ec8c0c2c, type: 3}
+  prefab: {fileID: 8434432780171953157, guid: 0b410889a15795b44842b69e03ac43c5, type: 3}
+  cheapPriceMax: 50
+  standardPriceMax: 75
+  expensivePriceMax: 100
+  recipe: 03000000030000000500000005000000
