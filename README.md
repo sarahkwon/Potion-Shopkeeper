@@ -10,10 +10,10 @@
 Potion Shopkeeper is an adorable 3D game made in Unity where you play as an owner of a small potion shop! The idea of the game comes from my love for relaxing simulation games such as Stardew Valley and Animal Crossing. The goal of the game is to make enough money within 10 days to purchase an incredibly rare potion ingredient called 'The Heart of the Wild.' The game is meant to be relaxing with some element of thought and strategy put into it. 
 ## Controls
 
-WASD - movement
-E - interact with table/cash register/ cauldron / Fred
-I - potion inventory
-MB1 (Left Click) - Icon drag and drop
+- WASD - movement
+- E - interact with table/cash register/ cauldron / Fred
+- I - potion inventory
+- MB1 (Left Click) - Icon drag and drop
 
 ## Features
 
